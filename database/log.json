@@ -1,0 +1,47 @@
+{
+    "log_messageDelete_725315232129482853": {
+        "logChannelId": "1276104143198621707"
+    },
+    "log_roleAdd_725315232129482853": {
+        "logChannelId": "1276104206574551061"
+    },
+    "log_roleRemove_725315232129482853": {
+        "logChannelId": "1276104229429317643"
+    },
+    "log_memberLeave_725315232129482853": {
+        "logChannelId": "1276107032054992947"
+    },
+    "log_memberJoin_725315232129482853": {
+        "logChannelId": "1276107009040584725"
+    },
+    "log_activity_725315232129482853": {
+        "logChannelId": "1276926384966471782"
+    },
+    "log_activity_913556222240768020": {
+        "logChannelId": "1266326811760132169"
+    },
+    "log_memberJoin_913556222240768020": {
+        "logChannelId": "957039689175535616"
+    },
+    "log_memberLeave_913556222240768020": {
+        "logChannelId": "957039689175535616"
+    },
+    "log_memberJoin_1291344170031648839": {
+        "logChannelId": "1291344615160414332"
+    },
+    "log_memberLeave_1291344170031648839": {
+        "logChannelId": "1291344615160414332"
+    },
+    "log_roleAdd_1291344170031648839": {
+        "logChannelId": "1291690565473276027"
+    },
+    "log_roleRemove_1291344170031648839": {
+        "logChannelId": "1291690803495960646"
+    },
+    "log_messageDelete_1291344170031648839": {
+        "logChannelId": "1291690379552362508"
+    },
+    "log_activity_1291344170031648839": {
+        "logChannelId": "1291691183298314290"
+    }
+}
